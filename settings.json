@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Gooding_SMP.aternos.me:41464",
+    "ip": bigscale.aternos.host:41464"",
     "port": 41464,
     "version": "",
     "try-creative": false
